@@ -23,7 +23,7 @@ This was tested on Windows 7 Service Pack 1 (x86) using .bat and .vbs scripts.
 
 Blog Post:
  "BadSamba - Exploiting Windows Startup Scripts Using A Malicious SMB Server" - 
-  https://blog.gdssecurity.com
+  http://blog.gdssecurity.com/labs/2015/1/26/badsamba-exploiting-windows-startup-scripts-using-a-maliciou.html
 
 LIMITATIONS
 ===========
